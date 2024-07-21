@@ -1,4 +1,4 @@
-Fast launcher written on barch file and python.. Only for my private using, but if you want, you can use it source code..\
+Fast launcher written on barch file and python.. Only for my private using, but if you want, you can use it source code..
 
 LAUNCHER USES:
 PortableMC: https://github.com/mindstorm38/portablemc
